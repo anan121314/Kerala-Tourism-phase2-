@@ -1,0 +1,12 @@
+body{
+    background-image: url(images/hill.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:  'Hi Melody', cursive;
+}
+ input{
+    width: 400px;
+    border-radius: 10px;
+    padding:0;
+    height: 35px;
+}
